@@ -1,4 +1,4 @@
-# krob615.github.io
+# Shop4D Auto Capitalize Extension
 Privacy Policy
 
 This Privacy Policy is designed to be simple, transparent, and compliant with the Google Chrome Web Store and Mozilla Add-on requirements for 2026.
