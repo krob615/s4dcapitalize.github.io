@@ -1,4 +1,4 @@
-# krob615.github.io
+# S4D_Autocap_Privacy.github.io
 Privacy Policy
 
 This Privacy Policy is designed to be simple, transparent, and compliant with the Google Chrome Web Store and Mozilla Add-on requirements for 2026.
