@@ -38,4 +38,4 @@ We may update this Privacy Policy from time to time. Any changes will be reflect
 
 6. Contact Us
 If you have any questions regarding this Privacy Policy or the practices of this extension, you can contact the developer at:
-[Your Email Address / Contact Link Here]
+s4dcapitalizeext@gmail.com
